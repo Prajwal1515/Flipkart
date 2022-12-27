@@ -1,0 +1,193 @@
+body{
+    background-color: white;
+    color: black;
+}
+.mydark{
+    background-color: rgb(58, 56, 56);
+    color: white;
+}
+.mode{
+    border: transparent;
+    color: white;
+    background-color:#2874f0; 
+}
+#body{
+    margin:auto;
+    display: inline-block;
+}
+header{
+    display: inline-block;
+    height: 60px;
+    background-color:#2874f0;
+
+}
+#brand{
+    float: left;
+    font-size: 30px;
+    color: white;
+    margin-top: 1%;
+    margin-left: 1%;
+}  
+#space{
+    float: left;
+    width: 20%;
+    height: 30px;
+    
+}
+#search{
+    float: left;
+}
+.search{
+    width:240px;
+    height:35px;
+    margin: 3%;
+    float:left;
+    
+}
+#searchbutton{
+    float:left;
+}
+.searchbutton{
+    width:50px;
+    height:33px;
+    margin-top: 8px;
+    margin-left: 5px;
+    background-color: white;
+    border:white
+}
+.coupon{
+    height:300px;
+    width:500px;
+    position: absolute;
+    margin-top: 6%;
+    margin-left: 400px;
+    z-index: 100;
+    
+}
+.imgcp{
+    height:300px;
+    width:500px;
+}
+.btncp{
+    position: absolute;
+}
+.login{
+    width:100px;
+    height:45px;
+    margin-top: 8px;
+    margin-left: 50px;
+    background-color: white;
+    border:white;
+    color: rgb(94, 116, 243);
+    font-size: medium;
+    font-weight: bold;      
+}
+.cart{
+    width:100px;
+    height:45px;
+    margin-top: 8px;
+    margin-left: 150px;
+    color: white;
+    background-color:#2874f0; 
+    border:transparent;
+    font-size: medium;
+    font-weight: bold;  
+}
+
+#icons{
+    display: inline-block;
+    width: 100%;
+}
+#grocery{
+    width: 100px;
+    height:80%;
+    margin: 1%;
+    float: left;
+}
+#mobiles{
+    width: 100px;
+    height:80%;
+    margin: 1%;
+    float: left;
+}
+
+#fashion{
+    width: 100px;
+    height:80%;
+    margin: 1%;
+    float: left;
+}
+
+#electronics{
+    width: 100px;
+    height:80%;
+    margin: 1%;
+    float: left;
+}
+#home{
+    width: 100px;
+    height:80%;
+    margin: 1%;
+    float: left;
+}
+#appliances{
+    width: 100px;
+    height:80%;
+    margin: 1%;
+    float: left;
+}#travel{
+    width: 100px;
+    height:80%;
+    margin: 1%;
+    float: left;
+}#topoffer{
+    width: 100px;
+    height:80%;
+    margin: 1%;
+    float: left;
+}#beautytoymore{
+    width: 100px;
+    height:80%;
+    margin: 1%;
+    float: left;
+}#twowheelers{
+    width: 100px;
+    height:80%;
+    margin: 1%;
+    float: left;
+}
+.text{
+    text-decoration: none;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+    font-weight: bold;
+}
+.item>img{
+    height:300px !important;
+    width:100%;
+    
+}
+
+
+footer{
+    height: 300px;
+    width: 100%;
+    background-color: #172337;
+    color: white;
+    text-align: center;
+    
+}
+.footertext{
+    font-size: 20px;
+    display: inline-block;
+}
+#footdiv{
+    float: left; 
+    width:25%;
+    height: 200px;  
+
+}
+li{
+    list-style-type: none;
+}
