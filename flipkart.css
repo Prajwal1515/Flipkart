@@ -162,6 +162,14 @@ header{
     font-family: Arial, Helvetica, sans-serif;
     color: black;
     font-weight: bold;
+    
+}
+#stories{
+    font-size: 11px;
+}
+h3{
+        font-size: 11px;
+
 }
 .item>img{
     height:300px !important;
@@ -186,6 +194,7 @@ footer{
     float: left; 
     width:25%;
     height: 200px;  
+    
 
 }
 li{
